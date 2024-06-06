@@ -1,0 +1,33 @@
+class Titles {
+  static const dayBook = "Дневник настроения";
+  static const statistics = "Статистика";
+  static const title1 = "Что чувствуешь?";
+  static const title2 = "Уровень стресса";
+  static const title3 = "Самооценка";
+  static const title4 = "Заметки";
+  static const title5 = "Запись сохранена";
+  static const title6 = "Низкий";
+  static const title7 = "Высокий";
+  static const title8 = "Неуверенность";
+  static const title9 = "Уверенность";
+  static const title10 = "Введите заметку";
+  static const title11 = "Сохранить";
+  static const ok = "Ок";
+  static const joy = "Радость";
+  static const fear = "Страх";
+  static const rabies = "Бешенство";
+  static const sadness = "Грусть";
+  static const clam = "Спокойствие";
+  static const strength = "Сила";
+  static const excitation = "Возбуждение";
+  static const delight = "Восторг";
+  static const playfulness = "Игривость";
+  static const pleasure = "Наслаждение";
+  static const charm = "Очарование";
+  static const mindfulness = "Осознанность";
+  static const courage = "Смелость";
+  static const enjoyment = "Удовольствие";
+  static const sensuality = "Чувственность";
+  static const energy = "Энергичность";
+  static const extravagance = "Экстравагантность";
+}
